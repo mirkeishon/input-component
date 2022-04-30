@@ -36,7 +36,7 @@
 
 ## Overview
 
-![input-component](https://user-images.githubusercontent.com/94877748/158277161-615cee28-4218-42f7-a454-a0422114c1bc.png)
+![input-component](https://user-images.githubusercontent.com/94877748/166093325-0f5ca04c-7cc4-423c-bbdb-acb0cff479df.png)
 
 - You can find the demo in this [url](https://input-component.onrender.com/)
 
